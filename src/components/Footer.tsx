@@ -65,9 +65,12 @@ export function Footer() {
         </div>
       </div>
 
-      <div className="container-luxury mt-12 border-t border-charcoal/5 pt-6">
-        <p className="text-center text-xs text-muted">
+      <div className="container-luxury mt-12 space-y-2 border-t border-charcoal/5 pt-6 dark:border-white/10">
+        <p className="text-center text-xs text-muted dark:text-white/55">
           © {year} Bloom &amp; Beyond. All rights reserved.
+        </p>
+        <p className="text-center text-xs text-muted dark:text-white/55">
+          Designed by Mercy.S © 2026
         </p>
       </div>
     </footer>
