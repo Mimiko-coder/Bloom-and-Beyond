@@ -67,10 +67,10 @@ export function Footer() {
 
       <div className="container-luxury mt-12 space-y-2 border-t border-charcoal/5 pt-6 dark:border-white/10">
         <p className="text-center text-xs text-muted dark:text-white/55">
-          © {year} Bloom &amp; Beyond. All rights reserved.
+          Designed by Mercy Sithole
         </p>
         <p className="text-center text-xs text-muted dark:text-white/55">
-          Designed by Mercy Sithole © 2026
+          © {year} Bloom &amp; Beyond. All rights reserved.
         </p>
       </div>
     </footer>
