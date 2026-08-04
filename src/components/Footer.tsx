@@ -70,7 +70,7 @@ export function Footer() {
           © {year} Bloom &amp; Beyond. All rights reserved.
         </p>
         <p className="text-center text-xs text-muted dark:text-white/55">
-          Designed by Mercy.S © 2026
+          Designed by Mercy Sithole © 2026
         </p>
       </div>
     </footer>
