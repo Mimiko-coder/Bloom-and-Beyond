@@ -80,7 +80,7 @@ pictures/              # Original media source files
 ## Contact
 
 - **WhatsApp:** +90 533 859 3314
-- **Instagram:** Coming Soon
+- **Instagram:** https://www.instagram.com/bloomandbeyond328?stkn=MXZmZG9xOGJsNHd5ag==
 
 ## License
 
